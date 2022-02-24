@@ -1,0 +1,59 @@
+body {
+    background: rgb(203, 247, 8);
+}
+p{
+    width: 1150px;
+    font-size: 20px;
+    text-align: justify;
+    line-height: 25px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+h1{
+    margin-top: -20px;
+    text-align: center;
+    color: rgb(169, 13, 241);
+    font-size: 80px;
+    font-family: 'Kanit', sans-serif;
+}
+h2{
+    margin-bottom: -15px;
+    font-size: 40px;
+    color: rgb(11, 88, 230);
+    font-style: oblique;
+    font-family: 'Akaya Telivigala', cursive;
+    text-decoration: none
+}
+h3{
+    font-family: 'Akaya Telivigala', cursive;
+    margin-bottom: -15px;
+    font-size: 30px;
+    color: rgb(236, 22, 104);
+}
+h4{
+    font-family: 'Akaya Telivigala', cursive;
+    margin-bottom: -10px;
+    font-size: 25px;
+}
+ul{
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 20px;
+}
+.cg{
+    /*top: 10px;*/
+    width: 418px;
+    position:relative;
+}
+.led li{
+    color: rgb(255, 0, 106);
+    list-style-image:url('F:\user studio\Star_red_ruby.png') ;
+}
+.ig{
+    position: absolute;
+    right: 10px;
+}
+.bot{
+    position: relative;
+    /*margin-right: 800px ;*/
+    margin-left: 800px;
+    float: right;
+}
